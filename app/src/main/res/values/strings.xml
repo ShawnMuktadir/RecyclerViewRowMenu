@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerViewRowMenu</string>
+    <string name="ponno_alternate_swipe">Ponno Alternate Swipe</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie nisi dui.</string>
+    <string name="dummy_colon">⋮</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="return_">Return</string>
+    <string name="delete">Delete</string>
+</resources>
